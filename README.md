@@ -19,6 +19,35 @@ The goal is to help businesses identify high-value customers, revenue trends, an
 • Power BI – Data modeling and dashboard creation
 • GitHub – Project documentation and version control
 
+🧠 Skills Demonstrated
+
+• Data Cleaning & Transformation
+• SQL Analytics & Aggregations
+• Dimensional Modelling (Star Schema)
+• Customer Segmentation (RFM Analysis)
+• KPI Development (Revenue, AOV, Orders)
+• Data Visualization & Dashboard Design
+• Business Insight Generation
+
+📂 Dataset
+The dataset used is the Online Retail Dataset, which contains transactional sales data for an e-commerce business.
+Key fields include:
+• InvoiceNo – Unique transaction ID
+• CustomerID – Unique customer identifier
+• StockCode – Product identifier
+• Quantity – Number of items purchased
+• UnitPrice – Price per item
+• InvoiceDate – Transaction timestamp
+• Country – Customer location
+
+❓ Business Questions Answered
+This project answers key business questions such as:
+• Which customers generate the most revenue?
+• What are the top-performing products?
+• How does revenue trend over time?
+• Which countries contribute the most sales?
+• Which customer segments drive the majority of revenue?
+
 🗂 Data Model
 The project follows a Star Schema structure.
 
