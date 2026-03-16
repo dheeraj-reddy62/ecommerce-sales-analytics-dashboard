@@ -60,3 +60,17 @@ This helps businesses target marketing campaigns effectively.
 • Upsell products to Loyal Customers to increase revenue
 • Prepare inventory for peak sales during holiday months
 
+## 📁 Repository Structure
+ecommerce-sales-analytics-dashboard
+│
+├── sql
+│   ├── 01_data_cleaning.sql
+│   ├── 02_star_schema.sql
+│   ├── 03_rfm_segmentation.sql
+│   └── 04_business_analysis.sql
+│
+├── dashboard.png
+├── ecommerce_dashboard.pbix
+└── README.md
+
+
